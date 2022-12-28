@@ -1,0 +1,28 @@
+# Ignore everything
+/*
+
+!.gitignore
+!.gitmodules
+
+# Except for the files and folders we want to track
+!README.md
+!README.es.md
+!.bashrc
+!.zshrc
+!.tmux.conf.local
+!.xprofile
+!.xinitrc
+!.profile
+!.Xresources
+#!.local
+
+!.config/
+.config/*
+!.config/fish/
+!.config/kitty/
+!.config/nvim/
+!.config/qtile/
+!.config/picom/
+!.config/rofi/
+!.config/starship/
+!.config/scriptchangelayoutlenguage.sh
